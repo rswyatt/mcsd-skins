@@ -1,0 +1,58 @@
+CVPI
+320 - Patrol White
+321 - Patrol White
+322 - Patrol Black
+323 - Patrol Black
+
+Charger
+330
+331
+332
+333
+
+
+Fusion
+354 
+
+mcsd3 Tahoe - 19 Lightbar
+420 - Supervisor (White)
+421 - Special Services (White)
+422 - Special Services (Black)
+423 - Patrol White
+424 - Patrol Black
+Subdued
+
+mcsd4 Tahoe - 19 Slicktop
+425 - Supervisor (White)
+426 - Special Services (White)
+427 - Special Services (Black)
+428 - Patrol White
+429 - Patrol Black
+Subdued
+
+F350
+780
+781
+
+
+mcsd6 - Explorer
+340
+341
+342
+343
+
+F150
+346
+347
+348
+
+mcsd9
+360
+361
+
+mcsd11
+399
+
+mcsd 13 - 19 Charger
+344
+345t
