@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+      <Item>
+          <modelName>mcsd1</modelName>
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+          </colors>
+          <kits>
+              <Item>157_massacaro2_modkit</Item>
+          </kits>
+          <windowsWithExposedEdges />
+          <plateProbabilities>
+              <Probabilities />
+          </plateProbabilities>
+          <lightSettings value="1" />
+          <sirenSettings value="1776" />
+      </Item>
+      <Item>
+          <modelName>mcsd2</modelName> <!--2018 Dodge Charger made by Zeakor Designs-->
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false"/>
+                      <Item value="false"/>
+                      <Item value="false"/>
+                  </liveries>
+              </Item>
+          </colors>
+          <kits>
+              <Item>0_default_modkit</Item>
+          </kits>
+          <windowsWithExposedEdges/>
+          <plateProbabilities>
+              <Probabilities>
+                  <Item>
+                      <Name>Police guv plate</Name>
+                      <Value value="100"/>
+                  </Item>
+              </Probabilities>
+          </plateProbabilities>
+          <lightSettings value="1"/>
+          <sirenSettings value="46"/>
+      </Item>
+      <Item>
+          <modelName>mcsdboat</modelName>
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+          </colors>
+          <kits>
+              <Item>157_massacaro2_modkit</Item>
+          </kits>
+          <windowsWithExposedEdges />
+          <plateProbabilities>
+              <Probabilities />
+          </plateProbabilities>
+          <lightSettings value="1" />
+          <sirenSettings value="90990" />
+      </Item>
+      <Item>
+          <modelName>mcsdcommand</modelName>
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      132
+                      0
+                      122
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+          </colors>
+          <kits />
+          <windowsWithExposedEdges />
+          <plateProbabilities>
+              <Probabilities />
+          </plateProbabilities>
+          <lightSettings value="1" />
+          <sirenSettings value="888" />
+      </Item>
+      <Item>
+          <modelName>mcsdcvpi</modelName>
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      0
+                      0
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      0
+                      0
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      0
+                      0
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      0
+                      0
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+              <Item>
+                  <indices content="char_array">
+                      0
+                      0
+                      156
+                      156
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="true" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+          </colors>
+          <kits>
+              <Item>0_default_modkit</Item>
+          </kits>
+          <windowsWithExposedEdges />
+          <plateProbabilities>
+              <Probabilities>
+                  <Item>
+                      <Name>police guv plate</Name>
+                      <Value value="100" />
+                  </Item>
+              </Probabilities>
+          </plateProbabilities>
+          <lightSettings value="1" />
+          <sirenSettings value="8854" />
+      </Item>
+      <Item>
+          <modelName>mcsdtransport</modelName>
+          <colors>
+              <Item>
+                  <indices content="char_array">
+                      134
+                      134
+                      134
+                      134
+                      134
+                      134
+                  </indices>
+                  <liveries>
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                      <Item value="false" />
+                  </liveries>
+              </Item>
+          </colors>
+          <kits>
+              <Item>0_default_modkit</Item>
+          </kits>
+          <windowsWithExposedEdges />
+          <plateProbabilities>
+              <Probabilities>
+                  <Item>
+                      <Name>Police guv plate</Name>
+                      <Value value="100" />
+                  </Item>
+              </Probabilities>
+          </plateProbabilities>
+          <lightSettings value="151" />
+          <sirenSettings value="21" />
+      </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
